@@ -160,7 +160,7 @@ To get a local copy up and running please follow these steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/jonmorg-hs/ProjProp.git
+   git clone https://github.com/jonmorg-hs/myfrontyard.git
    ```
 2. Install NPM packages
    ```sh
