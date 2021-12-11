@@ -146,7 +146,7 @@ The Following video deomonstrates the project funtionality:
 
 ## Project Links 
 
-Project Link: https://github.com/jonmorg-hs/ProjProp
+Project Link: https://github.com/jonmorg-hs/myfrontyard
 
 Heroku Deployment: https://my-frontyard.herokuapp.com/login
 
